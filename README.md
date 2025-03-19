@@ -90,5 +90,7 @@ endmodule
 ![exp1](https://github.com/user-attachments/assets/c2e15073-49b0-4d70-b6b4-00b2889ab66b)
 
 **Result:**
+The truth table of logic gates is verified.
+ 
 
 

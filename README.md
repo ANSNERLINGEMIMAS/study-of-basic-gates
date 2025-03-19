@@ -76,6 +76,7 @@ assign f4=~f1;
 assign f5=~f2;
 assign f6=a^b;
 assign f7=~f6;
+endmodule
 ```
 
  Developed by:ANS NERLING EMIMA S RegisterNumber: 212224040027

@@ -86,6 +86,8 @@ endmodule
 ![logic gates](https://github.com/user-attachments/assets/f69161f9-ebba-4a79-acaf-c7f23f33743a)
 
 
+
+
 ![digitalelectronics1](https://github.com/user-attachments/assets/52edf9cc-e50e-49bd-adcb-5b6a2b31858f)
 
 **RTL realization Output:** 

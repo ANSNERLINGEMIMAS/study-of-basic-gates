@@ -61,6 +61,9 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
+   
+![logic gates](https://github.com/user-attachments/assets/f69161f9-ebba-4a79-acaf-c7f23f33743a)
+
 
 **PROGRAM**
 
